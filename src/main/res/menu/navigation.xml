@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/today"
+        android:title="Hom Nay"
+        android:icon="@drawable/today"/>
+    <item android:id="@+id/history"
+        android:title="Lich Su"
+        android:icon="@drawable/history"/>
+    <item android:id="@+id/search"
+        android:title="Tim kiem"
+        android:icon="@drawable/search"/>
+</menu>
